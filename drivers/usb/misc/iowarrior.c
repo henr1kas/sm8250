@@ -2,9 +2,8 @@
 /*
  *  Native support for the I/O-Warrior USB devices
  *
- *  Copyright (c) 2003-2005, 2020  Code Mercenaries GmbH
- *  written by Christian Lucht <lucht@codemercs.com> and
- *  Christoph Jung <jung@codemercs.com>
+ *  Copyright (c) 2003-2005  Code Mercenaries GmbH
+ *  written by Christian Lucht <lucht@codemercs.com>
  *
  *  based on
 
